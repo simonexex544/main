@@ -1,0 +1,6 @@
+{
+  "name": "CraftPack AI - Kreator Paczek Minecraft (.mrpack)",
+  "description": "Twórz i optymalizuj paczki modów Minecraft w formacie .mrpack za pomocą sztucznej inteligencji, z gotowymi konfiguracjami, sprawdzaniem kompatybilności w chmurze i udostępnianiem przez link.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
